@@ -1,0 +1,64 @@
+{
+  "supermercados": [
+    {
+      "nombre": "Lidl",
+      "direccion": "Calle Ronda, 22, Alcalá de Henares, Madrid",
+   
+      "productos": [
+        {
+          "nombre": "Leche",
+          "oferta": true,
+          "vigencia": "01/06/2023 - 30/06/2023",
+          "unidad": "litro",
+          "precio": 1.99,
+          "adquirido": true
+        },
+        {
+          "nombre": "Pan",
+          "oferta": false,
+          "unidad": "unidad",
+          "precio": 0.99,
+          "adquirido": false
+        },
+        {
+          "nombre": "Tomate",
+          "oferta": true,
+          "vigencia": "15/06/2023 - 30/06/2023",
+          "unidad": "kilo",
+          "precio": 1.49,
+          "adquirido": false
+        }
+      ]
+    },
+    {
+      "nombre": "AhorraMas",
+      "direccion": "Avenida Industria, 29, Alcalá de Henares, Madrid",
+
+      "productos": [
+        {
+          "nombre": "Arroz",
+          "oferta": true,
+          "vigencia": "10/06/2023 - 20/06/2023",
+          "unidad": "kilo",
+          "precio": 0.99,
+          "adquirido": true
+        },
+        {
+          "nombre": "Manzanas",
+          "oferta": false,
+          "unidad": "kilo",
+          "precio": 1.99,
+          "adquirido": true
+        },
+        {
+          "nombre": "Pasta",
+          "oferta": true,
+          "vigencia": "01/06/2023 - 30/06/2023",
+          "unidad": "unidad",
+          "precio": 0.79,
+          "adquirido": false
+        }
+      ]
+    }
+  ]
+}

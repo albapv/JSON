@@ -1,0 +1,60 @@
+<supermercados>
+  <supermercado>
+    <nombre>Lidl</nombre>
+    <direccion>Calle Ronda, 22, Alcalá de Henares, Madrid</direccion>
+    <productos>
+      <producto>
+        <nombre>Leche</nombre>
+        <oferta>true</oferta>
+        <vigencia>01/06/2023 - 30/06/2023</vigencia>
+        <unidad>litro</unidad>
+        <precio>1.99</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Pan</nombre>
+        <oferta>false</oferta>
+        <unidad>unidad</unidad>
+        <precio>0.99</precio>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Tomate</nombre>
+        <oferta>true</oferta>
+        <vigencia>15/06/2023 - 30/06/2023</vigencia>
+        <unidad>kilo</unidad>
+        <precio>1.49</precio>
+        <adquirido>false</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>AhorraMas</nombre>
+    <direccion>Avenida Industria, 29, Alcalá de Henares, Madrid</direccion>
+    <productos>
+      <producto>
+        <nombre>Arroz</nombre>
+        <oferta>true</oferta>
+        <vigencia>10/06/2023 - 20/06/2023</vigencia>
+        <unidad>kilo</unidad>
+        <precio>0.99</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Manzanas</nombre>
+        <oferta>false</oferta>
+        <unidad>kilo</unidad>
+        <precio>1.99</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Pasta</nombre>
+        <oferta>true</oferta>
+        <vigencia>01/06/2023 - 30/06/2023</vigencia>
+        <unidad>unidad</unidad>
+        <precio>0.79</precio>
+        <adquirido>false</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+</supermercados>
